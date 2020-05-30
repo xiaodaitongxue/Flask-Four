@@ -1,0 +1,12 @@
+        .idea/
+        __pycache__/
+        app.py
+        db_dbpool.py
+        flask_settings.py
+        lantu/
+        my_stack.py
+        partial_func.py
+        templates/
+        threading_local.py
+        werkz.py
+
